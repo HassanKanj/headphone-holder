@@ -1,6 +1,6 @@
-# Headphone holder (3D files)
+# Headphones holder (3D files)
 
-Here’s a custom headphone holder I designed that you can attach to your desk.
+Here’s a custom headphones holder I designed that you can attach to your desk.
 
 This repo contains the design that I used but I have also included the design file (FreeCAD file) so you can modify the dimensions to suit your needs.
 
